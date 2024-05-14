@@ -1,6 +1,6 @@
 # To-Do-App-Using-Python
 This is a To-Do App which I have made using Python. As you can see it is not a simple Python program , I have used third party library called 
-FreeSimpleGUI , it acts aa a FrontEnd for my program. 
+FreeSimpleGUI , it acts as a FrontEnd for my program. 
 
 I have uploaded 3 files cli.py[BACKEND], gui.py[FRONTEND] and functions.py[FUNCTIONS].
 
